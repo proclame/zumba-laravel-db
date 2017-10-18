@@ -1,0 +1,11 @@
+{
+	"name":"zumba-laravel-db",
+	"autoload":{
+		"classmap": [
+			"database"
+		],
+		"psr-4":{
+			"ZumbaLaravelDb\\":"src/"
+		}
+	}
+}
