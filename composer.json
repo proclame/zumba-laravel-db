@@ -1,5 +1,5 @@
 {
-	"name":"proclame/zumba-laravel-db",
+	"name":"zumba-laravel-db",
 	"autoload":{
 		"classmap": [
 			"src/Migrations"
