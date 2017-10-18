@@ -2,7 +2,7 @@
 	"name":"proclame/zumba-laravel-db",
 	"autoload":{
 		"classmap": [
-			"database"
+			"src/Migrations"
 		],
 		"psr-4":{
 			"ZumbaLaravelDb\\":"src/"
