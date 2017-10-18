@@ -1,5 +1,6 @@
 {
-	"name":"zumba-laravel-db",
+	"name":"proclame/zumba-laravel-db",
+	"license":"proprietary",
 	"autoload":{
 		"classmap": [
 			"src/Migrations"
