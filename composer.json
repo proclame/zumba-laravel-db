@@ -1,5 +1,5 @@
 {
-	"name":"zumba-laravel-db",
+	"name":"proclame/zumba-laravel-db",
 	"autoload":{
 		"classmap": [
 			"database"
