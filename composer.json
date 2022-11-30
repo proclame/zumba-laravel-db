@@ -1,0 +1,12 @@
+{
+	"name":"proclame/zumba-laravel-db",
+	"license":"proprietary",
+	"autoload":{
+		"classmap": [
+			"src/Migrations"
+		],
+		"psr-4":{
+			"ZumbaLaravelDb\\":"src/"
+		}
+	}
+}
